@@ -4,7 +4,7 @@ Computer Science @ NYU | Minor in Media, Culture & Communications + Web Design &
 📫 jonesmakenzie798@gmail.com
 
 👋 About Me
-I’m a senior at New York University studying Computer Science with a dual minor in Media, Culture & Communications and Web Design & App Programming. My work spans across full-stack development, UX/UI design, and project coordination, with internship experience in both corporate and startup environments. I’m passionate about building tools that are intuitive, accessible, and responsive, especially when they make everyday life simpler or empower underrepresented users.
+I’m a recent graduate from New York University studying Computer Science with a dual minor in Media, Culture & Communications and Web Design & App Programming. My work spans across full-stack development, UX/UI design, and project coordination, with internship experience in both corporate and startup environments. I’m passionate about building tools that are intuitive, accessible, and responsive, especially when they make everyday life simpler or empower underrepresented users.
 
 💼 Notable Projects
 BudgetBuddy — Personal Finance Web App
